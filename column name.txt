@@ -1,0 +1,10 @@
+Teacher: 
+	* name
+	* email
+	* phone
+	* code
+	* image
+	* address
+	* description
+	* status
+	 
